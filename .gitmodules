@@ -1,0 +1,3 @@
+[submodule "Src/Scripts"]
+	path = Src/Scripts
+	url = https://github.com/leemojiang/Scripts.git
