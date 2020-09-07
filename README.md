@@ -4,35 +4,45 @@
   
  
 # Features 
- ## Support Battlefield2 game resources, and open to mod.( In other word remaster bf2)
+ * Support Battlefield2 game resources, and open to mod.( In other word remaster bf2)
+
     Texture script model animation 
     
- ## Battlefield2 game features.
+ * Battlefield2 game features.
+
+
     Open battlefield.
     Multiple types of vehicles and weapons.
    
- ## Extendable to new game features.
-  
+ * Extendable to new game features.
+
+# Usage
+  This repo contains all then scripts and docs.
+
+  The Unity project will be put in another repo.
 
 # Road Map
-  ## (Done)
+  * (Done)
   
-  ## (Almost done)
-    Model analysis and conversion.
+  * (Almost done)
+
+
+    - Model analysis and conversion.
     
     
 
-    Design the basic framework supporting tank.  
+    - Design the basic framework supporting tank.  
  
-      Fire     
-      Engine 
-      Basic AI (Aiming and moving)
+        Fire     
+        Engine 
+        Basic AI (Aiming and moving)
     
-  # (Future)
-    Hitbox
-    Ammo
-    
-    Update Code and Doc.
+  * (Future)
+  
+      Hitbox
+      Ammo
+      
+    - Update Code and Doc.
 
     
   
